@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimateMenu">
+        <attr name="icon_size" format="dimension" />
+        <attr name="image_size" format="dimension" />
+    </declare-styleable>
+</resources>
